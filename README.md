@@ -24,6 +24,6 @@
 4.  Upload a PDF document.
 5.  Ask  questions
 
-## 📦 Requirements
+##  Requirements
 * Python 3.10+
 * A Google Cloud API Key  or OpenAI API Key.
