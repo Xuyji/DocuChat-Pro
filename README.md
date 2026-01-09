@@ -1,4 +1,4 @@
- DocuChat Pro
+ ## DocuChat Pro
 # Installation
 
 1.  Clone the repository
