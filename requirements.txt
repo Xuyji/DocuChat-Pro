@@ -1,0 +1,1 @@
+streamlit langchain-community langchain-google-genai langchain-openai chromadb pypdf pysqlite3-binary 
